@@ -2,7 +2,7 @@
     "name": "anonovo",
     "version": "1.0.0",
     "description": "This example is so cool.",
-    "main": "app.js",
+    "main": "index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
